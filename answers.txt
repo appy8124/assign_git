@@ -1,5 +1,5 @@
 1.Gitignore files displayed by Git are neglected untracked files.These files consist of patterns from various sources in the higher level to lower level order.The patterns in these files are used to decide a path.These files do not affect the tracked files on Git.
-A gitignore file for Java includes the following:
+A gitignore file for Java project includes the following:
 *.class
 
 # Log file
