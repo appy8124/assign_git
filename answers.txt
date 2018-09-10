@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 1.Gitignore files displayed by Git are neglected untracked files.These files consist of patterns from various sources in the higher level to lower level order.The patterns in these files are used to decide a path.These files do not affect the tracked files on Git.
 A gitignore file for Java project includes the following:
 *.class
@@ -26,6 +25,3 @@ A gitignore file for Java project includes the following:
 3.For development process ,there has to be different branches in a Git repository.Whenever there is a need to change the code or fix a bug,a new branch is created in order to make changes.After reviewing the changes ,the branch can be merged with the present master branch.Every new branch represents pointers to a new commit.
 
 4.There can be many remote repository for a project ,basically these are versions for the project,hosted on the internet. 
-=======
-
->>>>>>> cf1082c132d9f40bd0f5b64335ac1feb54dbe424
