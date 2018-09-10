@@ -25,3 +25,8 @@ A gitignore file for Java project includes the following:
 3.For development process ,there has to be different branches in a Git repository.Whenever there is a need to change the code or fix a bug,a new branch is created in order to make changes.After reviewing the changes ,the branch can be merged with the present master branch.Every new branch represents pointers to a new commit.Branches in Git makes code maintainance easier.
 
 4.There can be many remote repository for a project ,basically these are versions for the project,hosted on the internet. 
+What is a gitignore file and what should it include for a Java project?
+What does fast-forward in Git mean?
+Why should you have different branches?
+In a project how many remote Git repositories do you usually have?
+
