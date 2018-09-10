@@ -22,6 +22,6 @@ A gitignore file for Java project includes the following:
 
 2.When a branch with one or more commit is ahead of the master branch at the time of merging ,Git performs a process called fast forward to match the merged commits.
 
-3.For development process ,there has to be different branches in a Git repository.Whenever there is a need to change the code or fix a bug,a new branch is created in order to make changes.After reviewing the changes ,the branch can be merged with the present master branch.Every new branch represents pointers to a new commit.
+3.For development process ,there has to be different branches in a Git repository.Whenever there is a need to change the code or fix a bug,a new branch is created in order to make changes.After reviewing the changes ,the branch can be merged with the present master branch.Every new branch represents pointers to a new commit.Branches in Git makes code maintainance easier.
 
 4.There can be many remote repository for a project ,basically these are versions for the project,hosted on the internet. 
